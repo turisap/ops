@@ -1,0 +1,1 @@
+* `host <ip>` get hostname by IP
