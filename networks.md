@@ -22,3 +22,6 @@ bigbarrel.co.nz has address 8.6.112.0
 ![Screenshot 2025-09-22 at 15.05.47.png](Screenshot%202025-09-22%20at%2015.05.47.png)
 * subnetworks
 ![Screenshot 2025-09-22 at 15.05.47.png](Screenshot%202025-09-22%20at%2015.05.47.png)
+
+### Tools
+* `ip -4 address show`
