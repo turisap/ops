@@ -30,3 +30,6 @@ bigbarrel.co.nz has address 8.6.112.0
 ### UDP vs TCP
 * TCP has a handshake, UDP does not
 * TCP is reliable and slow, UDP is fast and unreliable (in terms of packages delivery)
+
+### Well-know ports
+![Screenshot 2025-09-26 at 13.57.40.png](Screenshot%202025-09-26%20at%2013.57.40.png)
