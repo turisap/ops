@@ -33,3 +33,6 @@ bigbarrel.co.nz has address 8.6.112.0
 
 ### Well-know ports
 ![Screenshot 2025-09-26 at 13.57.40.png](Screenshot%202025-09-26%20at%2013.57.40.png)
+
+### Static routing
+![Screenshot 2025-09-29 at 21.52.12.png](Screenshot%202025-09-29%20at%2021.52.12.png)
