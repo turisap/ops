@@ -36,3 +36,4 @@ bigbarrel.co.nz has address 8.6.112.0
 
 ### Static routing
 ![Screenshot 2025-09-29 at 21.52.12.png](Screenshot%202025-09-29%20at%2021.52.12.png)
+![Screenshot 2025-09-29 at 22.03.59.png](Screenshot%202025-09-29%20at%2022.03.59.png)
